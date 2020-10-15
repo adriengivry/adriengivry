@@ -29,7 +29,7 @@
 </br>
 
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/adrien-givry/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/adrien-givry/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/7511460/adrien-givry" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/7511460/adrien-givry" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/user/omegarespvp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/user/omegarespvp" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adrien-givry/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="adrien-givry/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/adrien-givry" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="adrien-givry" height="30" width="40" /></a>
+<a href="https://www.youtube.com/user/omegarespvp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="omegarespvp" height="30" width="40" /></a>
 </p>
