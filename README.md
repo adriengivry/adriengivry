@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 👋, I'm Adrien Givry</h1>
+<h1 align="center">Hello there 👋, I'm Adrien</h1>
 <h3 align="center">Graphics Programmer at Ubisoft Montréal</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adriengivry" alt="adriengivry" /></a> </p>
@@ -13,7 +13,6 @@
 
 - ⚡ Fun fact **I used to hate coffee**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriengivry&layout=compact" alt="adriengivry" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adriengivry&show_icons=true" alt="adriengivry" /></p>
 
 </br>
