@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **an unannounced project at Ubisoft**, I can't wait to tell you more about it
 - 👯 I’m actively working onto [Overload](https://github.com/adriengivry/Overload) which is an Open-Source project I've initiated
-- 🛒 In my spare time I'm developping an e-commerce store for [The Beaver Stand](https://thebeaverstand.ca)
+- 🛒 In my spare time I'm developing an e-commerce store for a Canadian clothing company: [The Beaver Stand](https://thebeaverstand.ca)
 - 👨‍💻 You can take a look at my portfolio and my background by visiting my website [adrien-givry.com](http://adrien-givry.com)
 - 📫 You can contact me via any electronic mailing system at **adrien@givry.pro**
 - ⚡ Fun fact **I used to hate coffee**
