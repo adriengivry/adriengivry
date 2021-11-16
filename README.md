@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adriengivry" alt="adriengivry" /></a> </p>
 
-- 🔭 I’m currently working on **a Ubisoft internal game engine**
+- 🔭 I’m currently working on a **Ubisoft internal game engine**
 - 👯 I’m actively working onto [Overload](https://github.com/adriengivry/Overload) which is an Open-Source project I've initiated
 - 🛒 In my spare time I'm developing an e-commerce store for a Canadian clothing company: [The Beaver Stand](https://thebeaverstand.ca)
 - 👨‍💻 You can take a look at my portfolio and my background by visiting my website [adrien-givry.com](http://adrien-givry.com)
