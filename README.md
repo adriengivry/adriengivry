@@ -3,9 +3,8 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adriengivry" alt="adriengivry" /></a> </p>
 
-- 🔭 I’m currently working on Anvil, Ubisoft's game engine behind the Assassin's Creed franchise and many other titles!
-- 👯 I’m actively working onto [Overload](https://github.com/adriengivry/Overload) which is an Open-Source project I've initiated
-- 🛒 In my spare time I'm developing an e-commerce store for a Canadian clothing company: [The Beaver Stand](https://thebeaverstand.ca)
+- 🔭 I’m currently working on Anvil, Ubisoft's game engine behind the Assassin's Creed franchise and many other titles
+- 👯 I’m actively contributing to [Overload](https://github.com/adriengivry/Overload) which is an Open-Source project I've initiated
 - 👨‍💻 You can take a look at my portfolio and my background by visiting my website [adrien-givry.com](http://adrien-givry.com)
 - 📫 You can contact me via any electronic mailing system at **contact@givry-givry.com**
 - ⚡ Fun fact **I used to hate coffee**
