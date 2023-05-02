@@ -1,9 +1,9 @@
 <h1 align="center">Hello there 👋, I'm Adrien</h1>
-<h3 align="center">Graphics Programmer at Ubisoft Montréal</h3>
+<h3 align="center">Software Engineer on Minecraft</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adriengivry" alt="adriengivry" /></a> </p>
 
-- 🔭 I’m currently working on Anvil, Ubisoft's game engine behind the Assassin's Creed franchise and many other titles
+- 🔭 I’m currently working as a Software Engineer on Minecraft at SkyBox Labs
 - 👯 I’m actively contributing to [Overload](https://github.com/adriengivry/Overload) which is an Open-Source project I've initiated
 - 👨‍💻 You can take a look at my portfolio and my background by visiting my website [adrien-givry.com](http://adrien-givry.com)
 - 📫 You can contact me via any electronic mailing system at **contact@givry-givry.com**
