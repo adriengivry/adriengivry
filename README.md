@@ -1,7 +1,8 @@
 <h1 align="center">Hello there 👋, I'm Adrien</h1>
 <h3 align="center">Software Engineer on Minecraft</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adriengivry" alt="adriengivry" /></a> </p>
+</br>
+</br>
 
 - 🔭 I’m currently working as a Software Engineer on Minecraft at SkyBox Labs
 - 👯 I’m actively contributing to [Overload](https://github.com/adriengivry/Overload) which is an Open-Source project I've initiated
@@ -9,23 +10,34 @@
 - 📫 You can contact me via any electronic mailing system at **contact@givry-givry.com**
 - ⚡ Fun fact **I used to hate coffee**
 
-<table>
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=adriengivry&show_icons=true&hide_border=true&icon_color=C9F9D9&hide_title=true&count_private=true" />
+</br>
 
-  <td align="center" style="padding=0;width=70%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=adriengivry&layout=compact&show_icons=true&hide_border=true&icon_color=f0f0f000&count_private=true&extra=Juegos-Serios/ProyectFinal;MoruyankiiFighter/FighterTraighter" />
-    </td>
-  </tr>
-</table>
+<!-- GitHub Stats -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=adriengivry&hide_border=true&theme=transparent" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adriengivry&layout=compact&langs_count=8&card_width=320&hide_border=true&theme=transparent" />
+</a>
 
 
 </br>
 </br>
+</br>
+</br>
 
+<!-- Social Icons -->
 <p align="center">
-<a href="https://linkedin.com/in/adrien-givry/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn social link (adrien-givry)" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/7511460/adrien-givry" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Stackoverflow social link (adrien-givry)" height="30" width="40" /></a>
-<a href="https://www.youtube.com/user/omegarespvp" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="YouTube social link (omegarespvp)" height="30" width="40" /></a>
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/adrien-givry/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIn social link (adrien-givry)" height="64" width="64" />
+  </a>
+  <!-- StackOverflow -->
+  <a href="https://stackoverflow.com/users/7511460/adrien-givry" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Stackoverflow.svg" alt="Stackoverflow social link (adrien-givry)" height="64" width="64" />
+  </a>
+  <!-- YouTube -->
+  <a href="https://www.youtube.com/user/omegarespvp" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Youtube.png" alt="YouTube social link (omegarespvp)" height="64" width="64" />
+  </a>
 </p>
