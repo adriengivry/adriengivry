@@ -1,16 +1,11 @@
-<h1 align="center">Hello there 👋, I'm Adrien</h1>
-<h3 align="center">Software Engineer on Minecraft</h3>
+<h1 align="center">👋 Hi there, I'm Adrien, Software Engineer on Minecraft</h1>
 
-</br>
-</br>
-
-- 🔭 I’m currently working as a Software Engineer on Minecraft at SkyBox Labs
-- 👯 I’m actively contributing to [Overload](https://github.com/adriengivry/Overload) which is an Open-Source project I've initiated
+- ⛏ I’m currently working as a Software Engineer on Minecraft at SkyBox Labs
+- ⚔ Founder of Mythril2D: Action RPG Engine, published on the [Unity Asset Store](https://assetstore.unity.com/packages/templates/systems/action-rpg-engine-mythril2d-249375)
+- ⚙ I’m actively contributing to [Overload](https://github.com/adriengivry/Overload) which is an Open-Source project I've initiated
 - 👨‍💻 You can take a look at my portfolio and my background by visiting my website [adrien-givry.com](http://adrien-givry.com)
 - 📫 You can contact me via any electronic mailing system at **contact@givry-givry.com**
-- ⚡ Fun fact **I used to hate coffee**
-
-</br>
+- ⚡ Fun fact: *I spend way too much time trying to perfect my coffee-brewing technique*
 
 <!-- GitHub Stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -20,11 +15,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adriengivry&layout=compact&langs_count=8&card_width=320&hide_border=true&theme=transparent" />
 </a>
 
-
-</br>
-</br>
-</br>
-</br>
+---
 
 <!-- Social Icons -->
 <p align="center">
