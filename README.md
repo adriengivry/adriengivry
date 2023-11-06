@@ -1,6 +1,7 @@
 <h1 align="center">👋 Hi there, I'm Adrien, Software Engineer on Minecraft</h1>
 
 - ⛏ I’m currently working as a Software Engineer on Minecraft at SkyBox Labs
+- 🎮 Co-founder of Heliconia Interactive, building engaging educational experiences
 - ⚔ Founder of Mythril2D: Action RPG Engine, published on the [Unity Asset Store](https://assetstore.unity.com/packages/templates/systems/action-rpg-engine-mythril2d-249375)
 - ⚙ I’m actively contributing to [Overload](https://github.com/adriengivry/Overload) which is an Open-Source project I've initiated
 - 👨‍💻 You can take a look at my portfolio and my background by visiting my website [adrien-givry.com](http://adrien-givry.com)
