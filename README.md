@@ -4,6 +4,7 @@
 - 🎮 Co-founder of Heliconia Interactive, building engaging educational experiences
 - ⚔ Founder of Mythril2D: Action RPG Engine, published on the [Unity Asset Store](https://assetstore.unity.com/packages/templates/systems/action-rpg-engine-mythril2d-249375)
 - ⚙ I’m actively contributing to [Overload](https://github.com/adriengivry/Overload) which is an Open-Source project I've initiated
+- 📊 Building financial tools in my spare time, such as financeez, valscreen, and perfolio
 - 👨‍💻 You can take a look at my portfolio and my background by visiting my website [adrien-givry.com](http://adrien-givry.com)
 - 📫 You can contact me via any electronic mailing system at **contact@givry-givry.com**
 - ⚡ Fun fact: *I spend way too much time trying to perfect my coffee-brewing technique*
