@@ -1,13 +1,25 @@
-<h1 align="center">👋 Hi there, I'm Adrien, Software Engineer on Minecraft</h1>
+<h1 align="center">👋 Hi there, I'm Adrien, a Software Engineer working on Minecraft</h1>
 
-- ⛏ I’m currently working as a Software Engineer on Minecraft at SkyBox Labs
-- 🎮 Co-founder of Heliconia Interactive, building engaging educational experiences
-- ⚔ Founder of Mythril2D: Action RPG Engine, published on the [Unity Asset Store](https://assetstore.unity.com/packages/templates/systems/action-rpg-engine-mythril2d-249375)
-- ⚙ I’m actively contributing to [Overload](https://github.com/adriengivry/Overload) which is an Open-Source project I've initiated
-- 📊 Building financial tools in my spare time, such as financeez, valscreen, and perfolio
+<h3>⭐ Main Quests</h3>
+
+- ⛏ Software Engineer @ SkyBox Labs (Minecraft: Bedrock Edition)
+- 📦 Ex-3D programmer @ Ubisoft (Rainbow Six Mobile, Anvil, Assassin's Creed...)
+- 📱 Ex-engine programmer @ Gameloft (in-house game engine, Lego Star Wars...)
+
+<h3>⚡ Side Quests</h3>
+
+- ⚔ Founder of Mythril2D, a commercial tool to build 2D action RPGs with Unity, published on the [Unity Asset Store](https://assetstore.unity.com/packages/templates/systems/action-rpg-engine-mythril2d-249375)
+- 🎮 Co-founder of Heliconia Interactive, building engaging educational experiences for higher education
+- ⚙ Co-founder of [Overload](https://github.com/adriengivry/Overload), an open-source 3D game engine with Lua scripting
+- 📊 Developer behind several open-source financial tools, such as financeez, valscreen, and perfolio
+- 📖 Contributor on multiple open-source projects (quick-picture-viewer, Lumos, ezEngine...)
+
+<h3>🙋‍♂️ More About Me</h3>
+
+- 🥖 I'm French! And I love cheese 🧀
 - 👨‍💻 You can take a look at my portfolio and my background by visiting my website [adrien-givry.com](http://adrien-givry.com)
 - 📫 You can contact me via any electronic mailing system at **contact@givry-givry.com**
-- ⚡ Fun fact: *I spend way too much time trying to perfect my coffee-brewing technique*
+- 🎈 Fun fact: *I love building things*
 
 <!-- GitHub Stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
