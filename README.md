@@ -10,7 +10,7 @@
 
 - ⚔ Founder of Mythril2D, a commercial tool to build 2D action RPGs with Unity, published on the [Unity Asset Store](https://assetstore.unity.com/packages/templates/systems/action-rpg-engine-mythril2d-249375?aid=1100l3L8uv)
 - 🎮 Co-founder of Heliconia Interactive, building engaging educational experiences for higher education
-- ⚙ Co-founder of [Overload](https://github.com/adriengivry/Overload), an open-source 3D game engine with Lua scripting
+- ⚙ Co-founder of [Overload](https://github.com/Overload-Technology/Overload), an open-source 3D game engine with Lua scripting
 - 📊 Developer behind several open-source financial tools, such as financeez, valscreen, and perfolio
 - 📖 Contributor on multiple open-source projects (quick-picture-viewer, Lumos, ezEngine...)
 
