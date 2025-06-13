@@ -12,7 +12,7 @@
 - 🎮 Co-founder of Heliconia Interactive, building engaging educational experiences for higher education
 - ⚙ Co-founder of [Overload](https://github.com/Overload-Technology/Overload), an open-source 3D game engine with Lua scripting
 - 📊 Developer behind several open-source financial tools, such as financeez, valscreen, and perfolio
-- 📖 Contributor on multiple open-source projects (quick-picture-viewer, Lumos, ezEngine...)
+- 📖 Contributor on multiple open-source projects (quick-picture-viewer, Lumos, ezEngine, Fyrox...)
 
 <h3>🙋‍♂️ More About Me</h3>
 
