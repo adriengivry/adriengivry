@@ -8,11 +8,11 @@
 
 <h3>⚡ Side Quests</h3>
 
-- ⚔ Founder of Mythril2D, a commercial tool to build 2D action RPGs with Unity, published on the [Unity Asset Store](https://assetstore.unity.com/packages/templates/systems/action-rpg-engine-mythril2d-249375?aid=1100l3L8uv)
-- 🎮 Co-founder of Heliconia Interactive, building engaging educational experiences for higher education
+- ⚔ Founder of [Mythril2D](https://mythril2d.com/), a commercial tool to build 2D action RPGs with Unity, published on the [Unity Asset Store](https://assetstore.unity.com/packages/templates/systems/action-rpg-engine-mythril2d-249375?aid=1100l3L8uv)
+- 💡 Founder of [OpenRHI](https://github.com/adriengivry/orhi), making graphics programming more accessible
+- 🎮 Co-founder of [Heliconia Interactive](https://heliconiainteractive.com/), building engaging educational experiences for higher education
 - ⚙ Co-founder of [Overload](https://github.com/Overload-Technology/Overload), an open-source 3D game engine with Lua scripting
-- 📊 Developer behind several open-source financial tools, such as financeez, valscreen, and perfolio
-- 📖 Contributor on multiple open-source projects (quick-picture-viewer, Lumos, ezEngine, Fyrox...)
+- 📖 Contributor on many open-source projects, including [quick-picture-viewer](https://github.com/ModuleArt/quick-picture-viewer), [Lumos](https://github.com/jmorton06/Lumos), [ezEngine](https://github.com/ezEngine/ezEngine), [Fyrox](https://github.com/FyroxEngine/Fyrox)
 
 <h3>🙋‍♂️ More About Me</h3>
 
@@ -42,7 +42,7 @@
     <img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Stackoverflow.svg" alt="Stackoverflow social link (adrien-givry)" height="64" width="64" />
   </a>
   <!-- YouTube -->
-  <a href="https://www.youtube.com/user/omegarespvp" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Youtube.png" alt="YouTube social link (omegarespvp)" height="64" width="64" />
+  <a href="https://www.youtube.com/@gyvr" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Youtube.png" alt="YouTube social link (@Gyvr)" height="64" width="64" />
   </a>
 </p>
