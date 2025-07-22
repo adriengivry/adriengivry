@@ -4,7 +4,7 @@
 
 <h3>⭐ Main Quests</h3>
 
-- ⛏ Software Engineer @ SkyBox Labs (Minecraft: Bedrock Edition)
+- ⛏ Graphics Engineer @ SkyBox Labs (Minecraft: Bedrock Edition)
 - 📦 Ex-3D programmer @ Ubisoft (Rainbow Six Mobile, Anvil, Assassin's Creed...)
 - 📱 Ex-engine programmer @ Gameloft (in-house game engine, Lego Star Wars...)
 
