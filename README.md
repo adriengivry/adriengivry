@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hi, I'm Adrien, Graphics Engineer on <i>Minecraft: Bedrock Edition</i></h2>
 
-<h6 align="center">Graphics engineer by trade and advocate for open-source, passionate about shaping a better future through technology</h6>
+<h6 align="center">Graphics engineer and open-source advocate, passionate about shaping a better future through technology</h6>
 
 <h3>⭐ Main Quests</h3>
 
