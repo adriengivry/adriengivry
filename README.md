@@ -1,4 +1,6 @@
-<h1 align="center">👋 Hi there, I'm Adrien, a Software Engineer working on Minecraft</h1>
+<h2 align="center">👋 Hi, I'm Adrien, Graphics Engineer on <i>Minecraft: Bedrock Edition</i></h2>
+
+<h6 align="center">Graphics engineer by trade and advocate for open-source, passionate about shaping a better future through technology</h6>
 
 <h3>⭐ Main Quests</h3>
 
@@ -9,7 +11,7 @@
 <h3>⚡ Side Quests</h3>
 
 - ⚔ Founder of [Mythril2D](https://mythril2d.com/), a commercial tool to build 2D action RPGs with Unity, published on the [Unity Asset Store](https://assetstore.unity.com/packages/templates/systems/action-rpg-engine-mythril2d-249375?aid=1100l3L8uv)
-- 💡 Founder of [OpenRHI](https://github.com/adriengivry/orhi), making graphics programming more accessible
+- 💡 Founder of [OpenRHI](https://github.com/adriengivry/orhi), a cross-platform interface for modern graphics APIs
 - 🎮 Co-founder of [Heliconia Interactive](https://heliconiainteractive.com/), building engaging educational experiences for higher education
 - ⚙ Co-founder of [Overload](https://github.com/Overload-Technology/Overload), an open-source 3D game engine with Lua scripting
 - 📖 Contributor on many open-source projects, including [quick-picture-viewer](https://github.com/ModuleArt/quick-picture-viewer), [Lumos](https://github.com/jmorton06/Lumos), [ezEngine](https://github.com/ezEngine/ezEngine), [Fyrox](https://github.com/FyroxEngine/Fyrox)
