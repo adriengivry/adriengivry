@@ -1,10 +1,10 @@
-<h2 align="center">👋 Hi, I'm Adrien, Graphics Engineer on <i>Minecraft: Bedrock Edition</i></h2>
+<h2 align="center">👋 Hi, I'm Adrien, Graphics Engineer on <i>Minecraft</i></h2>
 
 <h6 align="center">Graphics engineer and open-source advocate, passionate about shaping a better future through technology</h6>
 
 <h3>⭐ Main Quests</h3>
 
-- ⛏ Graphics Engineer @ SkyBox Labs (Minecraft: Bedrock Edition)
+- ⛏ Graphics Engineer @ SkyBox Labs (Minecraft)
 - 📦 Ex-3D programmer @ Ubisoft (Rainbow Six Mobile, Anvil, Assassin's Creed...)
 - 📱 Ex-engine programmer @ Gameloft (in-house game engine, Lego Star Wars...)
 
