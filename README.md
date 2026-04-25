@@ -37,16 +37,24 @@
 
 <!-- Social Icons -->
 <p align="center">
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/adrien-givry/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIn social link (adrien-givry)" height="64" width="64" />
-  </a>
-  <!-- StackOverflow -->
-  <a href="https://stackoverflow.com/users/7511460/adrien-givry" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Stackoverflow.svg" alt="Stackoverflow social link (adrien-givry)" height="64" width="64" />
-  </a>
-  <!-- YouTube -->
-  <a href="https://www.youtube.com/@gyvr" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Youtube.png" alt="YouTube social link (@Gyvr)" height="64" width="64" />
-  </a>
+  <table align="center"><tr>
+    <!-- LinkedIn -->
+    <td>
+      <a href="https://linkedin.com/in/adrien-givry/" target="_blank">
+        <img src="https://s.magecdn.com/social/tc-linkedin.svg" alt="LinkedIn social link (adrien-givry)" height="64" width="64" />
+      </a>
+    </td>
+    <!-- StackOverflow -->
+    <td>
+      <a href="https://stackoverflow.com/users/7511460/adrien-givry" target="_blank">
+        <img src="https://s.magecdn.com/social/tc-stackoverflow.svg" alt="Stackoverflow social link (adrien-givry)" height="64" width="64" />
+      </a>
+    </td>
+    <!-- YouTube -->
+    <td>
+      <a href="https://www.youtube.com/@gyvr" target="_blank">
+        <img src="https://s.magecdn.com/social/tc-youtube.svg" alt="YouTube social link (@Gyvr)" height="64" width="64" />
+      </a>
+    </td>
+  </tr></table>
 </p>
