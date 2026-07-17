@@ -19,7 +19,7 @@
 <h3>🙋‍♂️ More About Me</h3>
 
 - 🥖 I'm French (and Canadian)! And I love cheese 🧀
-- 👨‍💻 You can take a look at my portfolio and my background by visiting my website [adrien-givry.com](http://adrien-givry.com)
+- 👨‍💻 You can take a look at my portfolio and my background by visiting my website [adrien-givry.com](https://adrien-givry.com)
 - 📫 You can contact me via any electronic mailing system at **contact@givry-givry.com**
 - 🎈 Fun fact: *I love building things*
 
